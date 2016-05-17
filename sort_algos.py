@@ -1,4 +1,4 @@
-class Sorts(object):
+class Sorters():
     '''Contains three different sorting functions'''
     def __init__(self,mylist):
         self.mylist = mylist
